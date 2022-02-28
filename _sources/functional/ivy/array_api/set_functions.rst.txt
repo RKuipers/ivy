@@ -12,4 +12,5 @@ Set functions
    :maxdepth: -1
    :caption: Set functions
 
+   set_functions/unique_counts.rst
 
